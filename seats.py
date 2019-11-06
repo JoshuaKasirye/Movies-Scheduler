@@ -1,3 +1,7 @@
+'''
+    By Joshua Kasirye
+'''
+
 from prettytable import PrettyTable
 seatsDict ={} #prices
 catDict = {} #category
