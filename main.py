@@ -1,3 +1,7 @@
+'''
+    By Joshua Kasirye
+'''
+
 from seats import*
 print("\n\nWelcome! To Cinema Booking System\n")
 restart = "Y"
